@@ -1,6 +1,6 @@
-# Tema do Projeto: "Benefícios e Malefícios da Engenharia Genética"
+## Tema do Projeto: 
+# "Benefícios e Malefícios da Engenharia Genética"
 
-## segundoi2023 ------- 2ª Série I - Novo Ensino Médio
+## segundoi_2023 ------- 2ª Série I - Novo Ensino Médio
 
-### Edson nº7
-### Giovani nº15
+### Edson nº7 /// Giovani nº15
