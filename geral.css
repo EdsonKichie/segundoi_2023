@@ -1,3 +1,15 @@
-header {
-    background-color: #B0B1F5;
+:root{
+    --cor-fundo: #9C9C9C;
+    --cor-painel: #946F91;
+    --cor-botao: #0097C4;
+}
+body{
+    background-color: var(--cor-fundo);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#painel{
+    background-color: var(--cor-painel);
 }
