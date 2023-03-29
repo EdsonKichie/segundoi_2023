@@ -12,4 +12,5 @@ body{
 }
 #painel{
     background-color: var(--cor-painel);
+    font-size: large;
 }
