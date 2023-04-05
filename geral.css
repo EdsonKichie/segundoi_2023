@@ -1,16 +1,27 @@
 :root{
-    --cor-fundo: #9C9C9C;
-    --cor-painel: #946F91;
+    --cor-conteudo: #c2c2c2;
     --cor-botao: #0097C4;
 }
 body{
-    background-color: var(--cor-fundo);
+    background-color: var(--cor-conteudo);
 }
 *{
     margin: 0;
     padding: 0;
 }
 #painel{
-    background-color: var(--cor-painel);
+    height: 120px;
+    width: 100%;
+    background-image: linear-gradient(rgb(187, 210, 253),rgb(54, 91, 255));
     font-size: large;
+    text-align: center;
+    padding: 10px;
+}
+.conteudo{ 
+    height: 70%;
+    width: 100%;
+    font-size: medium;
+}
+.rodape{
+
 }
