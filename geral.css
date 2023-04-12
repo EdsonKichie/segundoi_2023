@@ -2,30 +2,41 @@
     --cor-conteudo: #c2c2c2;
     --cor-botao: #0097C4;
 }
+
 body{
     background-color: var(--cor-conteudo);
 }
+
 *{
     margin: 0;
     padding: 0;
     font-family: Verdana;
 }
+
 #painel{
     height: 120px;
     width: 100%;
     background-image: linear-gradient(rgb(187, 210, 253),rgb(54, 91, 255));
-    font-size: large;
+    font-size: 50px;
     text-align: center;
     padding: 10px;
 }
-.conteudo{ 
-    height: 70%;
-    width: 100%;
-    font-size: medium;
-}
-.introducao {
-    font-size: large;
-}
-.rodape{
 
+.introducao {
+    height: 30%;
+    width: 100%;
+    font-size: 35px;
+    text-align: center;
+}
+
+.imagemInicial{
+    height: 200px;
+    width: 400px;
+}
+
+.conteudo{ 
+    height: 60%;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
 }
