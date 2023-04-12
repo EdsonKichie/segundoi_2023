@@ -1,3 +1,7 @@
+html, body {
+    overflow: hidden;
+   }
+
 :root{
     --cor-conteudo: #c2c2c2;
     --cor-botao: #0097C4;
@@ -29,7 +33,7 @@ body{
     text-align: center;
 }
 
-.imagemInicial{
+#imagemInicial{
     height: 200px;
     width: 400px;
 }
