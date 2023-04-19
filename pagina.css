@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+
+
+body{
+    background-color: #c2c2c2;
+}
+
+#painel{
+    height: 15%;
+    width: 97,5%;
+    background-image: linear-gradient(rgb(187, 210, 253),rgb(54, 91, 255));
+    text-align: center;
+    padding: 20px;
+}
+
+#menu li {
+    float: right;
+    margin-right: 50px;
+    font-size: 17px;
+}
+
+.conteudo{ 
+    height: 70%;
+    width: 97,5%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.imagem{
+    height: 500px;
+    width: 700px;
+}
+
+.rodape{
+    height: 15%;
+    width: 97,5%;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+#lista{
+    display: flex;
+}
+
+.lista{
+    padding: 5px;
+}
