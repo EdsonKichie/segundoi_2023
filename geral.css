@@ -13,10 +13,9 @@ body{
 }
 
 #painel{
-    height: 120px;
+    height: 20%;
     width: 100%;
     background-image: linear-gradient(rgb(187, 210, 253),rgb(54, 91, 255));
-    font-size: 50px;
     text-align: center;
     padding: 10px;
 }
@@ -29,10 +28,15 @@ body{
 }
 
 .conteudo{ 
-    height: 50%;
+    height: 60%;
     width: 100%;
     font-size: 20px;
     text-align: center;
+}
+
+#imagemInicial {
+    height: 20px;
+    width: 30px;
 }
 
 .rodape{
