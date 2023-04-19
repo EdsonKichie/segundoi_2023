@@ -27,15 +27,10 @@ body{
 }
 
 .introducao {
-    height: 30%;
+    height: 10%;
     width: 100%;
     font-size: 35px;
     text-align: center;
-}
-
-#imagemInicial{
-    height: 200px;
-    width: 400px;
 }
 
 .conteudo{ 
@@ -43,4 +38,9 @@ body{
     width: 100%;
     font-size: 20px;
     text-align: center;
+}
+
+.rodape{
+    height: 10%;
+    width: 100%;
 }
